@@ -1,0 +1,2 @@
+# biscoitoSorte
+app com ReactNative
